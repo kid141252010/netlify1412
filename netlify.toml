@@ -1,5 +1,5 @@
 [[redirects]]
     from = "/*"
-    to = "http(s)://{IP}:{PORT}/:splat"
+    to = "https://oec.nanhaijue1412.top:1214/:splat"
     status = 200
     force = true
